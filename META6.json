@@ -4,7 +4,7 @@
     "Config",
     "IRC::Client"
   ],
-  "description": "Nondescript",
+  "description": "Handle NickServ interaction for IRC::Client",
   "license": "GPL-3.0",
   "meta-version": 0,
   "name": "IRC::Client::Plugin::NickServ",
